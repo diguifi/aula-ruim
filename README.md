@@ -1,2 +1,2 @@
 # aula-ruim
-repositorinho massa
+projeto para ensinar o pessoal como usar repositórios em nuvem
